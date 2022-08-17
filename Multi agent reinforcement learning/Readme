@@ -1,0 +1,5 @@
+Implementing Multi-agent RL using OpenAI GYM and python, successfully creating a multi-agent grid environment and solving the multi-agent grid environment using 
+Q learning and DQN, and getting the desired results. Also solving an existing Multi-agent RL environment which is 'PongDuel-v0' using DQN and getting the desired 
+result where both the agent compete against each other and tries to maximize their rewards.
+
+The steps and results are attached in the report.
