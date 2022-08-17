@@ -1,0 +1,5 @@
+Creating an RL environment using OpenAI GYM and python, successfully creating a deterministic as well as stochastic grid environment with an agent with multiple rewards 
+in the grid and a goal.
+Solving the RL environments using Q learning and SARSA algorithms, successfully training the model in both the algorithms, and checking by running the agent with the 
+learned policy where the agent is successfully achieving maximum reward per episode and reaching the goal.
+The results are attached in the report.
