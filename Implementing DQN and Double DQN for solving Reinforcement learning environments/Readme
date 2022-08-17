@@ -1,0 +1,5 @@
+Solving various Reinforcement learning environments using OpenAI GYM and python. Two algorithms were implemented in this project DQN (Deep Q Network) and Double DQN 
+on grid environment, Cart pole, and Mountain car (OpenAI GYM). Successfully training the models for all 3 environments and getting the desired evaluation result 
+where agent is achieving maximum reward per episode and reaching the goal.
+
+The results are attached in the report.
