@@ -1,0 +1,5 @@
+Implementing Advantage Actor critic (A2C) algorithm using OpenAI GYM and Python and solving multiple RL environments. Successfully training the model on all 3 
+environments which are grid environment, Lunar Lander, and OpenAI Ant (OpenAI GYM), and getting the desired evaluation result where the agent is maximizing its 
+reward per episode and reaching the goal.
+
+The results are attached in the report.
